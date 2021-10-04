@@ -1,0 +1,38 @@
+body{
+    
+    margin-top: 50px;
+}
+img{
+   
+    width:150px;
+    height:180px;
+    border-width:2px;
+    padding:2px;
+
+}
+.text_image_and_its_results{
+    text-align: center;
+    width:40%;
+    border: 3px solid;
+padding: 10px;
+box-shadow: 5px 10px 18px grey;
+}
+#heading{
+    font-size: 50px;
+margin-left: 50px;
+    color:blue;
+}
+.lastcomment{
+    text-align: center;
+    width:40%;
+    margin-left: 50px;
+
+border: 2px solod;
+background-color: darkkhaki;
+padding:20px;
+box-shadow: 5px 10px 18px blueviolet;
+}
+#who{
+    text-align: center;
+    color:brown
+}
